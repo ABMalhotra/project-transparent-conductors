@@ -1,0 +1,11 @@
+Overall Grade: 5
+
+General Summary: This report is excellent. The data is laid out well, the approach is clearly described, and the results of the model are impressively good. 
+
+Specific Feedback:
+
+I was not able to get the data from Kaggle because I don't have an account and didn't want to sign up in the middle of grading. For the final report please include these .csvs with the submission as long as they are not too large.
+
+May be possible to clean up the code slightly by using imports from .py files
+
+I would definitely like to use this as an example (or project) for future years. Please let me know if this is okay with you.
