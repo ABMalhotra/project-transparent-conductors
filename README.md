@@ -5,7 +5,7 @@ Course project for Dr. AJ Medford's course at Georgia Tech.
 Prediction of spacegroups, bandgaps and formation energies for transparent conductors.
 
 # Data Source
-ww.kaggle.com
+www.kaggle.com
 
 # Created by
 Abhinav Malhotra and Mayank Agrawal
