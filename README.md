@@ -1,5 +1,5 @@
 # project-transparent-conductors
-Course project for Dr. AJ Medford's course at Georgia Tech.
+Project with Dr. AJ Medford at Georgia Tech.
 
 # Aim
 Prediction of spacegroups, bandgaps and formation energies for transparent conductors.
